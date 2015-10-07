@@ -1,0 +1,66 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/cheggaaa/pb",
+			"repository": "https://github.com/cheggaaa/pb",
+			"revision": "da1f27ad1d9509b16f65f52fd9d8138b0f2dc7b2",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "47990a1ba55743e6ef1affd3a14e5bac8553615d",
+			"branch": "master",
+			"path": "/context"
+		},
+		{
+			"importpath": "golang.org/x/oauth2",
+			"repository": "https://go.googlesource.com/oauth2",
+			"revision": "2fbf3d7329d847b125188ad64b68cfb1f548938a",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/oauth2/google",
+			"repository": "https://go.googlesource.com/oauth2",
+			"revision": "2fbf3d7329d847b125188ad64b68cfb1f548938a",
+			"branch": "master",
+			"path": "/google"
+		},
+		{
+			"importpath": "google.golang.org/api/drive/v2",
+			"repository": "https://code.googlesource.com/google-api-go-client",
+			"revision": "7f3774db0aa426a2390fa9abcccbc272dbb93111",
+			"branch": "master",
+			"path": "/drive/v2"
+		},
+		{
+			"importpath": "google.golang.org/api/googleapi",
+			"repository": "https://code.googlesource.com/google-api-go-client",
+			"revision": "7f3774db0aa426a2390fa9abcccbc272dbb93111",
+			"branch": "master",
+			"path": "/googleapi"
+		},
+		{
+			"importpath": "google.golang.org/api/internal",
+			"repository": "https://code.googlesource.com/google-api-go-client",
+			"revision": "7f3774db0aa426a2390fa9abcccbc272dbb93111",
+			"branch": "master",
+			"path": "/internal"
+		},
+		{
+			"importpath": "google.golang.org/cloud/compute/metadata",
+			"repository": "https://code.googlesource.com/gocloud",
+			"revision": "9fdfebf8027334a2f0f583591507f08b0ab166d8",
+			"branch": "master",
+			"path": "/compute/metadata"
+		},
+		{
+			"importpath": "google.golang.org/cloud/internal",
+			"repository": "https://code.googlesource.com/gocloud",
+			"revision": "9fdfebf8027334a2f0f583591507f08b0ab166d8",
+			"branch": "master",
+			"path": "/internal"
+		}
+	]
+}
